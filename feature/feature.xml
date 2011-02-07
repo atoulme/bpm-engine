@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="cloud.bpm-engine.f"
+      label="%featureName"
+      version="1.0.0.qualifier"
+      provider-name="%providerName">
+
+   <description url="%descriptionURL">
+      %description
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+   
+  <plugin id="org.drools.api" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.drools.core" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.drools.compiler" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.drools.persistence-jpa" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.jbpm.bpmn2" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.jbpm.flow-persistence-jpa" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.jbpm.flow.core" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.jbpm.flow.builder" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.mvel2" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+</feature>
