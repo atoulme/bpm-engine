@@ -27,7 +27,7 @@ It is required in this format for the release on hudson -->
     <equinox-site>${eclipse-mirror-url}/eclipse/updates/3.6</equinox-site>
     <jetty-site>${eclipse-mirror-url}/jetty/7.1.4.v20100610/repository</jetty-site>
     <drools-version>5.2.0.M1</drools-version>
-    <jbpm-version>5.0.0.010</jbpm-version>
+    <jbpm-version>5.0.0.011</jbpm-version>
   </properties>
   <dependencies>
     <dependency>
