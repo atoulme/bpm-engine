@@ -45,8 +45,8 @@
         <url>http://release.intalio.com/p2repo/com/intalio/cloud/orbit2/cloud.orbit2.repository/current</url>
         <version_built>
            <artifact>com.intalio.cloud.orbit2:cloud.orbit2.repository</artifact>
-           <version>2.0.0.021</version>
-           <built>2011-02-16-043648</built>
+           <version>2.0.0.022</version>
+           <built>2011-03-09-051801</built>
         </version_built>
     </repository>
 </repositories>
