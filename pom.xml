@@ -173,6 +173,11 @@ It is required in this format for the release on hudson -->
       <url>http://www.intalio.org/public/maven2/</url>
     </repository>
     <repository>
+      <id>jboss</id>
+      <name>JBoss releases</name>
+      <url>https://repository.jboss.org/nexus/content/repositories/releases</url>
+    </repository>
+    <repository>
       <id>equinox</id>
       <layout>p2</layout>
       <url>${equinox-site}</url>
