@@ -157,6 +157,10 @@ It is required in this format for the release on hudson -->
   </dependencies>
   <repositories>
     <repository>
+      <id>jboss public dependencies</id><!-- for MVEL -->
+      <url>http://repository.jboss.org/nexus/content/groups/public</url>
+    </repository>
+    <repository>
       <id>intalio-release</id>
       <url>http://release.intalio.com/m2repo/</url>
     </repository>
