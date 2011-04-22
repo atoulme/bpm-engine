@@ -25,8 +25,8 @@
         <url>http://release.intalio.com/p2repo/com/intalio/cloud/orbit/cloud.orbit.repository/current</url>
         <version_built>
            <artifact>com.intalio.cloud.orbit:cloud.orbit.repository</artifact>
-           <version>1.0.0.012</version>
-           <built>2011-04-11-075636</built>
+           <version>1.0.0.013</version>
+           <built>2011-04-18-203458</built>
         </version_built>
     </repository>
     <repository>
@@ -35,8 +35,8 @@
         <url>http://release.intalio.com/p2repo/com/intalio/cloud/orbit-binaries/current</url>
         <version_built>
            <artifact>com.intalio.cloud:cloud-orbit-binaries</artifact>
-           <version>1.0.0.027</version>
-           <built>2011-03-24-080729</built>
+           <version>1.0.0.028</version>
+           <built>2011-04-16-082016</built>
         </version_built>
     </repository>
     <repository>
