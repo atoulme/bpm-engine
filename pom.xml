@@ -45,7 +45,7 @@ It is required in this format for the release on hudson -->
     -->
     <dependency>
       <groupId>org.drools</groupId>
-      <artifactId>drools-api</artifactId>
+      <artifactId>knowledge-api</artifactId>
       <version>${drools-version}</version>
     </dependency>
     <!--
