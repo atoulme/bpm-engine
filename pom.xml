@@ -33,8 +33,7 @@ It is required in this format for the release on hudson -->
     <dependency>
       <groupId>org.mvel</groupId>
       <artifactId>mvel2</artifactId>
-      <version>2.1</version>
-      <classifier>intalio</classifier>
+      <version>2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.drools</groupId>
