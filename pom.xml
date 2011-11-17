@@ -12,7 +12,7 @@
   <properties>
     <!-- the commented forceContextQualifier is in fact the build number
 It is required in this format for the release on hudson -->
-    <forceContextQualifier>072</forceContextQualifier>
+    <!--forceContextQualifier>072</forceContextQualifier-->
     <eclipse-mirror-url>http://www.intalio.org/public/p2repo/org/eclipse</eclipse-mirror-url>
     <!--eclipse-mirror-url>http://download.eclipse.org</eclipse-mirror-url-->
     <jetty-version>7.1.4.v20100609</jetty-version>
