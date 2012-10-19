@@ -36,6 +36,11 @@ It is required in this format for the release on hudson -->
       <version>2.1.0.drools2</version>
     </dependency>
     <dependency>
+      <groupId>org.mvel</groupId>
+      <artifactId>mvel2</artifactId>
+      <version>2.1.3.Final</version>
+    </dependency>
+    <dependency>
       <groupId>org.drools</groupId>
       <artifactId>knowledge-api</artifactId>
       <version>${drools-version}</version>
