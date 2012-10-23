@@ -26,8 +26,8 @@ It is required in this format for the release on hudson -->
     <i-orbit-binaries>http://release.intalio.com/p2repo/com/intalio/cloud/orbit-binaries/${i-orbit-binaries-version}</i-orbit-binaries>
     <equinox-site>${eclipse-mirror-url}/eclipse/updates/3.6</equinox-site>
     <jetty-site>${eclipse-mirror-url}/jetty/7.1.4.v20100610/repository</jetty-site>
-    <drools-version>6.0.0.002</drools-version>
-    <jbpm-version>6.0.0.004</jbpm-version>
+    <drools-version>6.0.0.005</drools-version>
+    <jbpm-version>6.0.0.005</jbpm-version>
   </properties>
   <dependencies>
     <dependency>
@@ -38,6 +38,11 @@ It is required in this format for the release on hudson -->
     <dependency>
       <groupId>org.drools</groupId>
       <artifactId>knowledge-api</artifactId>
+      <version>${drools-version}</version>
+    </dependency>
+	<dependency>
+      <groupId>org.drools</groupId>
+      <artifactId>knowledge-internal-api</artifactId>
       <version>${drools-version}</version>
     </dependency>
     <!--
@@ -156,10 +161,10 @@ It is required in this format for the release on hudson -->
     -->
   </dependencies>
   <repositories>
-    <repository>
-      <id>jboss public dependencies</id><!-- for MVEL -->
+    <!--repository>
+      <id>jboss public dependencies</id>
       <url>http://repository.jboss.org/nexus/content/groups/public</url>
-    </repository>
+    </repository-->
     <repository>
       <id>intalio-release</id>
       <url>http://release.intalio.com/m2repo/</url>
