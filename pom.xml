@@ -42,7 +42,7 @@ It is required in this format for the release on hudson -->
     </dependency>
 	<dependency>
       <groupId>org.kie</groupId>
-      <artifactId>kie-internal-api</artifactId>
+      <artifactId>kie-internal</artifactId>
       <version>${drools-version}</version>
     </dependency>
     <!--
