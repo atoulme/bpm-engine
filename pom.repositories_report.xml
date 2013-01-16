@@ -1,15 +1,5 @@
 <repositories>
     <repository>
-        <id>jetty-site</id>
-        <layout>p2</layout>
-        <url>http://www.intalio.org/public/p2repo/org/eclipse/jetty/7.1.4.v20100610/repository</url>
-        <version_built>
-           <artifact>unknown</artifact>
-           <version>unknown</version>
-           <built>unknown</built>
-        </version_built>
-    </repository>
-    <repository>
         <id>equinox</id>
         <layout>p2</layout>
         <url>http://www.intalio.org/public/p2repo/org/eclipse/eclipse/updates/3.6</url>
@@ -17,6 +7,16 @@
            <artifact>org.eclipse:equinox</artifact>
            <version>3.6.0</version>
            <built>2010-09-09 08:00</built>
+        </version_built>
+    </repository>
+    <repository>
+        <id>jetty-site</id>
+        <layout>p2</layout>
+        <url>http://www.intalio.org/public/p2repo/org/eclipse/jetty/7.1.4.v20100610/repository</url>
+        <version_built>
+           <artifact>unknown</artifact>
+           <version>unknown</version>
+           <built>unknown</built>
         </version_built>
     </repository>
     <repository>
@@ -30,16 +30,6 @@
         </version_built>
     </repository>
     <repository>
-        <id>i-orbit-binaries</id>
-        <layout>p2</layout>
-        <url>http://release.intalio.com/p2repo/com/intalio/cloud/orbit-binaries/current</url>
-        <version_built>
-           <artifact>com.intalio.cloud:cloud-orbit-binaries</artifact>
-           <version>1.0.0.037</version>
-           <built>2012-01-17-034818</built>
-        </version_built>
-    </repository>
-    <repository>
         <id>i-orbit-site-2</id>
         <layout>p2</layout>
         <url>http://release.intalio.com/p2repo/com/intalio/cloud/orbit2/cloud.orbit2.repository/current</url>
@@ -47,6 +37,16 @@
            <artifact>com.intalio.cloud.orbit2:cloud.orbit2.repository</artifact>
            <version>2.0.0.031</version>
            <built>2011-06-30-022715</built>
+        </version_built>
+    </repository>
+    <repository>
+        <id>i-orbit-binaries</id>
+        <layout>p2</layout>
+        <url>http://release.intalio.com/p2repo/com/intalio/cloud/orbit-binaries/current</url>
+        <version_built>
+           <artifact>com.intalio.cloud:cloud-orbit-binaries</artifact>
+           <version>1.0.0.037</version>
+           <built>2012-01-17-034818</built>
         </version_built>
     </repository>
 </repositories>
