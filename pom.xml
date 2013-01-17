@@ -37,12 +37,12 @@ It is required in this format for the release on hudson -->
     </dependency>
     <dependency>
       <groupId>org.drools</groupId>
-      <artifactId>kie-api</artifactId>
+      <artifactId>knowledge-api</artifactId>
       <version>${drools-version}</version>
     </dependency>
 	<dependency>
       <groupId>org.drools</groupId>
-      <artifactId>kie-internal-api</artifactId>
+      <artifactId>knowledge-internal-api</artifactId>
       <version>${drools-version}</version>
     </dependency>
     <!--
