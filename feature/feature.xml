@@ -21,9 +21,9 @@
   <plugin id="org.kie.internalapi" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
   <plugin id="org.drools.core" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
   <plugin id="org.drools.compiler" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
-  <plugin id="org.drools.persistence.jpa" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.drools.persistence-jpa" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
   <plugin id="org.jbpm.bpmn2" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
-  <plugin id="org.jbpm.persistence.jpa" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+  <plugin id="org.jbpm.flow-persistence-jpa" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
   <plugin id="org.jbpm.flow.core" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
   <plugin id="org.jbpm.flow.builder" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
   <plugin id="org.mvel2" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
