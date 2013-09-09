@@ -17,6 +17,12 @@
       %license
    </license>
    
+   <require>
+      <plugin id="jaxb-api" version="2.2.7"/>
+      <plugin id="com.sun.xml.bind.jaxb-core" version="2.2.7"/>
+      <plugin id="com.sun.xml.bind.jaxb-impl" version="2.2.7"/>
+   </require>
+   
   <plugin id="org.kie.api" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
   <plugin id="org.kie.internalapi" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
   <plugin id="org.drools.core" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
